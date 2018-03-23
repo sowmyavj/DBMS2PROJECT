@@ -15,7 +15,7 @@ public class DatabaseConnection {
 	 * Database connection variables
 	 */
 	private static final String user = "postgres";
-	private static final String password = "kamala_v";
+	private static final String password = "######";
 	private static final String url = "jdbc:postgresql://localhost:5432/Test";
 	
 	/**
